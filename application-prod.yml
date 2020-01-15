@@ -1,0 +1,4 @@
+#生产/正式环境
+info:
+  profile: prod
+  from: git

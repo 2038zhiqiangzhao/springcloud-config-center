@@ -1,0 +1,4 @@
+#默认环境
+info:
+  profile: default
+  from: git
